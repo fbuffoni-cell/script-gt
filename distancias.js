@@ -1,5 +1,5 @@
-Creditos "yoelbulo"
-no es muy dificil, solo ejecuta. Si tenes preguntas buscame en el juego
+//Creditos "yoelbulo"
+//no es muy dificil, solo ejecuta. Si tenes preguntas buscame en el juego
 
 
 
@@ -88,3 +88,4 @@ javascript:
     });
 
 })();
+
