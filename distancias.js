@@ -1,3 +1,9 @@
+Creditos "yoelbulo"
+no es muy dificil, solo ejecuta. Si tenes preguntas buscame en el juego
+
+
+
+
 javascript:
 (function() {
     /* 1. Detección de Coordenadas de Destino */
@@ -80,4 +86,5 @@ javascript:
         h += '</table></div>';
         Dialog.show("distancias_final", h);
     });
+
 })();
